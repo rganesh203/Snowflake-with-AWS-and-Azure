@@ -29,9 +29,10 @@ ACQUIRED SKILLS
 
 • Scale your Virtual Warehouses to improve performance and address concurrency needs.
 
-• Explain the dierent ways you can manage and monitor your Snowflake account.
+• Explain the different ways you can manage and monitor your Snowflake account.
 
 WHO SHOULD ATTEND
+
 • Data Analysts
 
 • Data Engineers
@@ -44,7 +45,10 @@ WHO SHOULD ATTEND
 
 
 PREREQUISITES
-Previous Data Warehouse knowledge is assumed.
+
+• A background in data engineering is required.
+• Completion of “Snowflake Foundations” one-day course or equivalent Snowflake knowledge.
+• Previous Data Warehouse knowledge is assumed.
 
 DELIVERY FORMAT
 Instructor-led Public or Private classes are available.
@@ -103,6 +107,7 @@ Functions, Procedures, and Snowflake Scripting
 • User-defined Functions
 • Stored Procedures
 • Snowflake Scripting
+
 Using Tasks
 
 • Overview
@@ -140,4 +145,72 @@ Cost Management
 • Control
 • Optimization
 
-###DATA ENGINEER
+#DATA ENGINEER
+
+Snowflake Data Cloud
+Introduction to the Data Engineering Workflow
+Supporting Platform Features
+• Authentication Methods
+• Drivers, Clients, and Connectors Overview
+• Integrations
+• Snowflake Connector for Python
+• SnowSQL
+• Role-based Access Control (RBAC) Overview
+• Introduction to Data Governance
+Data Storage
+• Semi-structured Data
+• Query Semi-structured Data
+• Data Lake
+Ingestion
+• Bulk vs. Continuous Data Loading Approaches
+• Snowpipe
+• Snowpipe Streaming
+• Snowflake Connector for Kafka
+• Snowflake Connector for Kafka With Snowpipe Streaming
+• Snowflake Data Loading Best Practices
+• Loading Semi-structured Data
+• Schema Detection
+• Working With Unstructured Data
+• Creating and Managing Streams
+• Streams on Views
+Orchestration
+• Creating and Managing Tasks
+• Using Streams and Tasks Together
+Transformation
+• Dynamic Tables
+• Extensibility Overview
+• Snowflake Scripting
+• JavaScript Stored Procedures
+• SQL and JavaScript UDFs and UDTFs
+• External Functions
+• External Network Access
+• Introduction to Snowpark
+• Java and Python Functions and Stored Procedures Introduction
+• Transformations With Unstructured Data
+Performance Optimization
+• Natural Clustering
+• Explicit Clustering
+• Automatic Clustering Service
+• Search Optimization Service Introduction
+• SQL Performance Tips
+• Performance Bottleneck Scenarios
+Delivery
+• Materialized Views
+• Unloading Semi-structured Data
+• Data Sharing
+• Data Exchange
+• Snowflake Marketplace
+• Secure Views
+• Secure UDFs
+• Streams on Shared Tables
+• Common Table Expressions (CTEs)
+Management and Observability
+• Observability on Snowflake
+• Outbound Notifications
+• Snowflake Alerts
+• Observability Within Snowsight
+• Query Tags
+• Cost Controls
+• Resource Monitors
+• Parameters
+

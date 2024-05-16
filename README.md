@@ -5,10 +5,13 @@ This three-day course covers the core concepts, design considerations, and Snowf
 
 ACQUIRED SKILLS
 
- Outline the unique and differentiated architecture of the Snowflake Data Cloud.
- Load and transform data.
- Summarize query constructs, DDL, and DML operations.
- Use Snowflake’s extensive SQL capabilities for data analysis.
+• Outline the unique and differentiated architecture of the Snowflake Data Cloud.
+
+• Load and transform data.
+
+• Summarize query constructs, DDL, and DML operations.
+
+• Use Snowflake’s extensive SQL capabilities for data analysis.
 
 • Describe how user and application access can be easily managed.
 
@@ -41,102 +44,165 @@ WHO SHOULD ATTEND
 PREREQUISITES
 
 • A background in data engineering is required.
+
 • Completion of “Snowflake Foundations” one-day course or equivalent Snowflake knowledge.
+
 • Previous Data Warehouse knowledge is assumed.
 
 DELIVERY FORMAT
+
 Instructor-led Public or Private classes are available.
 
 TOPICS COVERED
+
 Overview and Architecture
+
 • Overview of Snowflake
+
 • Snowflake Structure
+
 • Using Snowsight
+
 • Storage Layer
+
 • Compute Layer
+
 • Cloud Services Layer
+
 • Snowgrid
 
 Connecting to Snowflake
+
 • Connection Options
+
 • SnowSQL
 
 Data Protection Features
+
 • Cloning
+
 • Time Travel
+
 • Fail-safe
+
 • Introduction to Replication
 
 SQL Support in Snowflake
+
 • Tables, Views, and Data Types
+
 • Transactions
+
 • Standard SQL and Snowflake
+
 • Estimation Functions
+
 • Sampling
+
 • Collation
+
 • Multi-table Inserts
+
 • Query Tags
+
 • Working with Parameters
 
 Metadata and Caching in Snowflake
+
 • Overview
+
 • Metadata
+
 • Query Result Cache
+
 • Data Cache
+
 Query Performance
 
 • Using Explain
+
 • Query Profile
+
 • SQL Performance Tips
+
 Data Loading and Unloading
 
 • Data Loading Objects
+
 • Data Loading Process
+
 • Transformations and Copy Options
+
 • Data Loading Recommendations
+
 • Continuous Data Loading
+
 • Unloading Data
 
 Functions, Procedures, and Snowflake Scripting
+
 • User-defined Functions
+
 • Stored Procedures
+
 • Snowflake Scripting
 
 Using Tasks
 
 • Overview
+
 • Creating Tasks
+
 • Managing Tasks
 
 Managing Security
+
 • Security Overview
+
 • Access
+
 • Authentication
+
 • Authorization
+
 • Data Protection
 
 Access Control and User Management
+
 • Concepts
+
 • Types of Roles
+
 • Ownership
+
 • View Grants
 
 Semi-structured Data
+
 • Overview
+
 • Query Semi-structured Data
 
 Introduction to Data Sharing
+
 • Snowflake Data Sharing Overview
+
 • Shares
 
 Virtual Warehouse Scaling
+
 • Types of Virtual Warehouse Scaling
+
 • Auto-scaling Policies
 
 Cost Management
+
 • Overview
+
 • Visibility
+
 • Control
+
 • Optimization
 
 #DATA ENGINEER
@@ -324,57 +390,56 @@ Masking Policies – Column Level and Row Level
 
 Masking Policies – Column Level and Row Level
  
-•	Column level Masking Policies
-•	Row level Masking Policies
+ •	Column level Masking Policies
+ •	Row level Masking Policies
 
 Working With Dates and Time Stamps
-•	Dates and time Stamps
-•	Date and Time Stamp conversions
+ •	Dates and time Stamps
+ •	Date and Time Stamp conversions
 
 Snowflake Ecosystem Topics
-
-	Data Migration Strategies - Challenges - Oracle, Teradata, SQL Server
-	Data Lake Setup on Snowflake
-	Database Nomenclature
-	ETL Data Ingestion using Python - Use Cases
-	High Volume - Data Unloading 100 million - Use Case Scenario
-	Python Framework for Data Loading - Millions and Billions of Records
-	Real World Performance Tuning, Clustering and Search Optimization Service
-	Data Modeling - Designing Star Schema, Snowflake Schema , Facts and Dimension Tables, Data Vault Modeling, SCD Types
-	AWS -- Exclusive intro about S3 Buckets and EC2 Nodes
-	Kafka Snowflake Integration
-	CI/CD Pipelines
+ 	Data Migration Strategies - Challenges - Oracle, Teradata, SQL Server
+ 	Data Lake Setup on Snowflake
+ 	Database Nomenclature
+ 	ETL Data Ingestion using Python - Use Cases
+ 	High Volume - Data Unloading 100 million - Use Case Scenario
+ 	Python Framework for Data Loading - Millions and Billions of Records
+ 	Real World Performance Tuning, Clustering and Search Optimization Service
+ 	Data Modeling - Designing Star Schema, Snowflake Schema , Facts and Dimension Tables, Data Vault Modeling, SCD Types
+ 	AWS -- Exclusive intro about S3 Buckets and EC2 Nodes
+ 	Kafka Snowflake Integration
+ 	CI/CD Pipelines
 
 By the end of this course, you will be able to:
-	Configure and manage your Snowflake account
-	Connect to Snowflake using external tools
-	Assign privileges to roles in the account
-	Load and unload structured and semi-structured data
-	Work with advanced query constructs
-	Use streams to implement Change Data Capture (CDC)
-	Use dynamic data masking or external tokenization to mask sensitive data
-	Use cloning and sharing to enhance your development efforts
-	Create and access external tables to connect to an external source of truth
-	Configure virtual warehouses for maximum efficiency and monitor compute usage
-	Use materialized views, clustering, and search optimization to improve query performance
-	Apply effective cost-control measures on your account
+ 	Configure and manage your Snowflake account
+ 	Connect to Snowflake using external tools
+ 	Assign privileges to roles in the account
+ 	Load and unload structured and semi-structured data
+ 	Work with advanced query constructs
+ 	Use streams to implement Change Data Capture (CDC)
+ 	Use dynamic data masking or external tokenization to mask sensitive data
+ 	Use cloning and sharing to enhance your development efforts
+ 	Create and access external tables to connect to an external source of truth
+ 	Configure virtual warehouses for maximum efficiency and monitor compute usage
+ 	Use materialized views, clustering, and search optimization to improve query performance
+ 	Apply effective cost-control measures on your account
  
 Agenda - Overview
-	Overview
-	Architecture Review
-	Account Setup and Security
-	Connectors
-	Role-Based Access Control
-	Loading Data
-	Querying Data
-	Streams (Change Data Capture)
-	Data Security
-	Agile Development
-	Data Lake Support
-	Unloading Data
-	Resource Optimization
-	Optimizing Query Performance
-	Account Monitoring and Cost Control
+ 	Overview
+ 	Architecture Review
+ 	Account Setup and Security
+ 	Connectors
+ 	Role-Based Access Control
+ 	Loading Data
+ 	Querying Data
+ 	Streams (Change Data Capture)
+ 	Data Security
+ 	Agile Development
+ 	Data Lake Support
+ 	Unloading Data
+ 	Resource Optimization
+ 	Optimizing Query Performance
+ 	Account Monitoring and Cost Control
 
 
 

@@ -1,5 +1,5 @@
 # SNOWFLAKE FUNDAMENTALS
-![name-of-you-image](![image](https://github.com/rganesh203/Snowflake/assets/68594076/a36192ac-430c-40e5-a7e8-d4ddbe84dacb)
+(![image](https://github.com/rganesh203/Snowflake/assets/68594076/a36192ac-430c-40e5-a7e8-d4ddbe84dacb))
 
 OVERVIEW
 

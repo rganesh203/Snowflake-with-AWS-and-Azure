@@ -7,28 +7,45 @@ and targeted labs covering a wide range of essential topics.
 
 ACQUIRED SKILLS
 
-• Outline the unique and dierentiated architecture of the Snowflake Data Cloud.
+• Outline the unique and differentiated architecture of the Snowflake Data Cloud.
+
 • Load and transform data.
+
 • Summarize query constructs, DDL, and DML operations.
+
 • Use Snowflake’s extensive SQL capabilities for data analysis.
+
 • Describe how user and application access can be easily managed.
+
 • Apply Snowflake best practices for working with semi-structured data.
+
 • Discuss Snowflake’s unique approach to caching.
+
 • Implement the options provided to connect and interact with the Snowflake Data Cloud.
+
 • Employ Snowflake’s continuous data protection features.
+
 • Utilize Data Sharing to send your data in real-time to Customers and Partners.
+
 • Scale your Virtual Warehouses to improve performance and address concurrency needs.
+
 • Explain the dierent ways you can manage and monitor your Snowflake account.
 
 WHO SHOULD ATTEND
 • Data Analysts
+
 • Data Engineers
+
 • Data Scientists
+
 • Database Architects
+
 • Database Administrators
+
 
 PREREQUISITES
 Previous Data Warehouse knowledge is assumed.
+
 DELIVERY FORMAT
 Instructor-led Public or Private classes are available.
 

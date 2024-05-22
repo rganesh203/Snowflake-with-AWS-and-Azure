@@ -1,7 +1,7 @@
 # SNOWFLAKE with AWS and Azure
 ![image](https://github.com/rganesh203/Snowflake/assets/68594076/a36192ac-430c-40e5-a7e8-d4ddbe84dacb)
 
-OVERVIEW
+###OVERVIEW
 
 This three-day course covers the core concepts, design considerations, and Snowflake best practices intended for key stakeholders who will be working on the Snowflake Data Cloud. The course consists of lectures, demos, and targeted labs covering a wide range of essential topics.
 

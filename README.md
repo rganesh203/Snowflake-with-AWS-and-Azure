@@ -1,6 +1,7 @@
 # SNOWFLAKE with AWS and Azure
 ![image](https://miro.medium.com/v2/resize:fit:940/1*UtSfVs6LQq4q11ZVzMHzBA.png)
-![image](https://github.com/rganesh203/Snowflake/assets/68594076/338ab3f0-8af1-40a1-b556-596067416f3d)
+![image](https://github.com/rganesh203/Snowflake/assets/68594076/3cdd98fe-b8a1-48d2-bbe8-39057a0c715b)
+
 
 
 ### OVERVIEW

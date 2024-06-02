@@ -3,7 +3,7 @@
 
 ### OVERVIEW
 
-This three-day course covers the core concepts, design considerations, and Snowflake best practices intended for key stakeholders who will be working on the Snowflake Data Cloud. The course consists of lectures, demos, and targeted labs covering a wide range of essential topics.
+ This three-day course covers the core concepts, design considerations, and Snowflake best practices intended for key stakeholders who will be working on the Snowflake Data Cloud. The course consists of  lectures, demos, and targeted labs covering a wide range of essential topics.
 
 ### Snowflake - Architecture and Concepts
 •	Key Concepts & Architecture
